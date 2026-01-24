@@ -34,11 +34,23 @@ Weather API
 
 weather-app/
 │
+
+
 ├── index.html
+
+
 ├── style.css
+
+
 ├── script.js
+
+
 ├── Assets/
+
+
 │   └── images
+
+
 └── README.md
 
 ## 🧑‍💻 Author
