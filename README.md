@@ -1,6 +1,6 @@
  ## 🌦️ Weather App
 
-A simple and responsive Weather Application that shows real-time weather information like temperature,
+A simple Weather Application that shows real-time weather information like temperature,
 humidity, and weather conditions for any city using a Weather API.
 
 ---
